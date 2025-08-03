@@ -217,15 +217,19 @@ resource "tencentcloud_clb_instance" "myclb" {
 
  # Step4 Recheck in the console 
 cvm
+
  ![alt text](image-4.png)
 
 clb
+
 ![alt text](image-5.png)
 
 vpc
+
 ![alt text](image-6.png)
 
 database-mysql instance
+
 ![alt text](image-7.png)
 
 # Step4 Automatically destroy resources
