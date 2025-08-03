@@ -20,7 +20,8 @@ Project Steps:​
 ​4、Automatically destroy provisioned infrastructure​ using Terraform commands
 
 The final goal of this project：
-![alt text](image.png)
+
+![alt text](image-9.png)
 
 # Step1 Configure the Terraform runtime environment​
 
